@@ -1,4 +1,8 @@
 
+#Welcome to the Hack-a-thon for Housing
+
+We are excited that you're joining us for the hackathon. Here are the details!
+
 # Submission Criteria
 
 * Descriptive title 
