@@ -1,7 +1,7 @@
 
-#Welcome to the Hack-a-thon for Housing
+# Welcome to the Hack-a-thon for Housing
 
-We are excited that you're joining us for the hackathon. Here are the details!
+We are excited that you're joining us for the hackathon. Find more information at wwww.hackathonforhousing.slack.com. Here are the details!
 
 # Submission Criteria
 
