@@ -1,0 +1,231 @@
+VARS,DESCRIPTION
+GEOID,"Combined state, county, and tract FIPS code"
+TOTAL,Total population
+MONTH_HC,Non-mortage/non-rent monthly housing cots 
+SCD_TOT,Total population sampled for self-care difficulty. Includes individuals with self-care difficulty and individuals with no self-care difficulty
+SCD,Individuals with self-care difficulty
+AD_TOT,Total population sampled for ambulatory difficulty. Includes individuals with an ambulatory difficulty and individuals with no ambulatory difficulty
+AMB_D,Individuals with ambulatory difficulty
+ILD_TOT,Total population sampled for independent living difficulty. Includes individuals with an independent living difficulty and individuals with no independent living difficulty
+ILD,Individuals with an independent living difficulty
+ES_TOT,Total population sampled for participation in the labor force
+ES_EMP,Employed individuals
+ES_UNEMP,Unemployed individuals defined as those actively looking for work and not finding it
+ES_NLF,Individuals not in the labor force defined as those not actively looking for work
+OS_TOT,Total number of housing units by type of occupancy status
+OS_OCC,Occupied housing units
+OS_VAC,Vacant housing units
+VAC_TOT,Total number of housing units by type of vacancy status
+VAC_FOR_RENT,For rent housing units
+VAC_RENTED,"Rented, not occupied housing units"
+VAC_FOR_SALE,For sale only housing units
+VAC_SOLD_NO,"Sold, not occupied housing units"
+VAC_SEASONAL_USE,"For seasonal, recreational, or occasional housing units"
+VAC_MIGRANT,For migrant workers housing units
+VAC_OTHER_VAC,Other vacant housing units
+RA_TOT,Total Number of housing untis sampled for rent asked
+RA_SUB_100,Number of housing units with rents less than $100
+RA_100_149,Number of housing units with rents from $100 to $149 
+RA_150_199,Number of housing units with rents from $150 to $199
+RA_200_249,Number of housing units with rents from $200 to $249 
+RA_250_299,Number of housing units with rents from $250 to $299 
+RA_300_349,Number of housing units with rents from $300 to $349 
+RA_350_399,Number of housing units with rents from $350 to $399 
+RA_400_449,Number of housing units with rents from $400 to $449
+RA_450_499,Number of housing units with rents from $450 to $499 
+RA_500_549,Number of housing units with rents from $500 to $549 
+RA_550_599,Number of housing units with rents from $550 to $599
+RA_600_649,Number of housing units with rents from $600 to $649
+RA_650_699,Number of housing units with rents from $650 to $699 
+RA_700_749,Number of housing units with rents from $700 to $749 
+RA_750_799,Number of housing units with rents from $750 to $799 
+RA_800_899,Number of housing units with rents from $800 to $899 
+RA_900_999,Number of housing units with rents $900 to $999 
+RA_1000._1249,"Number of housing units with rents $1,000 to $1,249 "
+RA_1250_1.499,"Number of housing units with rents $1,250 to $1,499 "
+RA_1500._1999,"Number of housing units with rents $1,500 to $1,999 "
+RA_2000_2499,"Number of housing units with rents $2,000 to $2,499 "
+RA_2500_2999,"Number of housing units with rents $2,500 to $2,999"
+RA_3000_3499,"Number of housing units with rents $3,000 to $3,499 "
+R_3500_OVER,"Number of housing with rents $3,500 and over"
+TEN_TOT,Total number of housing units sampled for tenure status
+TEN_OWNER,Number of owner occupied housing units
+TEN_RENTER,Number of renter occupied housing units
+RELOC_TOT,Total population sampled for relocation from current residence 
+RELOC_COUNTY,Total number of people who relocated residences within the same county  in the past year
+RELOC_COUNTY_1_4,Number of people who relocated residences withwithin the same county ages 1 to 4 years old  in the past year
+RELOC_COUNTY_5_17,Number of people who relocated residences within the same county ages 5 to 17 years old  in the past year
+RELOC_COUNTY_18_19,Number of people who relocated residences within the same county ages 18 to 19 years old  in the past year
+RELOC_COUNTY_20_24,Number of people who relocated residences within the same county ages 20 to 24 years old  in the past year
+RELOC_COUNTY_25_29,Number of people who relocated residences within the same county ages 25 to 29 years old  in the past year
+RELOC_COUNTY_30_34,Number of people who relocated residences within the same county ages 30 to 34 years old  in the past year
+RELOC_COUNTY_35_39,Number of people who relocated residences within the same county ages 35 to 39 years old  in the past year
+RELOC_COUNTY_40_44,Number of people who relocated residences within the same county ages 40 to 44 years old  in the past year
+RELOC_COUNTY_45_49,Number of people who relocated residences within the same county ages 45 to 49 years old  in the past year
+RELOC_COUNTY_50_54,Number of people who relocated residences within the same county ages 50 to 54 years old  in the past year
+RELOC_COUNTY_55_59,Number of people who relocated residences within the same county ages 55 to 59 years old  in the past year
+RELOC_COUNTY_60_64,Number of people who relocated residences within the same county ages 60 to 64 years old  in the past year
+RELOC_COUNTY_65_69,Number of people who relocated residences within the same county ages 65 to 69 years old  in the past year
+RELOC_COUNTY_70_74,Number of people who relocated residences within the same county ages 70 to 74 years old  in the past year
+RELOC_COUNTY_75_OVER,Number of people who relocated residences within the same county ages 75 years old and over  in the past year
+RELOC_POV_TOT,Total population sampled for relocation from current residence by poverty status
+RELOC_PL_SUB_100,Number of people below 100 percent the federal poverty level who relocated residences within the same county in the past year
+RELOC_PL_100_149,Number of people between 100 and 149 percent of the federal poverty level who relocated residences within the same county in the past year
+RELOC_PL_150_OVER,Number of people at or above 150 percent of the federal poverty level who relocated residences within the same county in the past year
+VS_TOT,Total population sampled for veteran status
+VS_TOT_VET,Total number of individuals with a veteran status
+VS_VET_18_34,Individuals with a veteran status ages 18 to 34 years old
+VS_VET_35_54,Individuals with a veteran status ages 35 to 54 years old
+VS_VET_55_64,Individuals with a veteran status ages 55 to 64 years old
+VS_VET_65_74,Individuals with a veteran status ages 65 to 74 years old
+VS_VET_75,Individuals with a veteran status ages 75 years old and over
+SERV_DIS_TOT,Total population sampled for a service-connected disability
+SERV_DIS_EXISTING,Individuals with an existing service-connected disability
+HT_TOT,Total number of households sampled for household type
+HT_FAM,Number of households that are considered family households
+HT_FAM_MAR,Number of family households categorized as a married-couple family
+HT_FAM_MHH,Number of family households headed by a single male head of house (no wife present)
+HT_FAM_FHH,Number of family household headed by a single female head of house (no husband present)
+HT_LIVING_ALONE,Number of non-family households where the householder lives alone
+LES_TOT,Total population sampled for for ability to speak English 
+LES,Number of Spanish-language speakers with limited english speaking ability
+LIV_ARR_TOT,Total population sampled for type of living arrangement
+LIV_ARR_ALONE_18_34,Number of people ages 18 to 34 years that live alone
+LIV_ARR_DEP_18_34,Number of people ages 18 to 34 years that live in a household where they are the child of the householder
+LIV_ARR_NONRELATIVES_18_34,Number of people ages 18 to 34 that live with non-relatives
+LIV_ARR_ALONE_35_64,Number of people ages 35 to 64 years old that live alone
+LIV_ARR_DEP_35_64,Number of people ages 35 to 64 years old where they are the child of the householder
+LIV_ARR_NONRELATIVES_35_64,Number of people ages 35 to 64 years old that live with non-relatives
+LIV_ARR_ALONE_65_OVER,Number of people ages 65 years old and over that live alone
+LIV_ARR_DEP_65_OVER,Number of people ages 65 years old and over where they are the child of the householder
+LIV_ARR_NONRELATIVES_65_OVER,Number of people ages 65 years old and over that live with non-relatives
+VEH_TOT,Total number of households sampled for number of vehicles available by household size type
+VEH_1HH_TOT,Total number of 1-person households
+VEH_1HH_NONE,Number of 1-person households with no vehicle available
+VEH_1HH_1VEH,Number of 1-person households with 1 vehicle available
+VEH_1HH_2VEH,Number of 1-person households with 2 vehicles available
+VEH_1HH_3VEH,Number of 1-person households with 3 vehicles available
+VEH_1HH_4VEH,Number of 1-person households with 4 or more vehicels available
+VEH_2HH_TOT,Total number of 2-person households
+VEH_2HH_NONE,Number of 2-person households with no vehicles available
+VEH_2HH_1VEH,Number of 2-person households with 1 vehicle available
+VEH_2HH_2VEH,Number of 2-person households with 2 vehicles available
+VEH_2HH_3VEH,Number of 2-person households with 3 vehicles available
+VEH_2HH_4VEH,Number of 2-person households with 4 or more vehicles available
+VEH_3HH_TOT,Total number of 3-person households
+VEH_3HH_NONE,Number of 3-person households with no vehicle available
+VEH_3HH_1VEH,Number of 3-person households with 1-vehicle available
+VEH_3HH_2VEH,Number of 3-person households with 2-vehicles available
+VEH_3HH_3VEH,Number of 3-person households with 3-vehicles available
+VEH_3HH_4VEH,Number of 4-person households with 4-or more vehicles available
+VEH_4HH_TOT,Total number of 4-person households
+VEH_4HH_NONE,Total number of 4-person households with no vehicle available
+VEH_4HH_1VEH,Total number of 4-person households with 1-vehicle available
+VEH_4HH_2VEH,Total number of 4-person households with 2-vehicles availables
+VEH_4HH_3VEH,Total number of 4-persons households with 3-vehicles
+VEH_4HH_4VEH,Total number of 4-persons households with 4 or more vehicles available
+CMMT_TOT,Total population of workers 16 years and over sampled for commute time to work
+CMMT_SUB_5,Number of workers with a commute time to work of less than 5 minutes
+CMMT_5_9,Number of workers with a commute time to work between 5 to 9 minutes
+CMMT_10_14,Number of workers with a commute time to work between 10 to 14 minutes
+CMMT_15_19,Number of workers with a commute time to work between 15 to 19 minutes
+CMMT_20_24,Number of workers with a commute time to work between 20 to 24 minutes
+CMMT_25_29,Number of workers with a commute time to work between 25 to 29
+CMMT_30_34,Number of workers with a commute time to work between 30 to 34 minutes
+CMMT_35_39,Number of workers with a commute time to work between 35 to 39 minutes
+CMMT_40_44,Number of workers with a commute time to work between 40 to 44 minutes
+CMMT_45_59,Number of workers with a commute time to work between 45 to 59 minutes
+CMMT_60_89,Number of workers with a commute time to work between 60 to 89 minutes
+CMMT_90_OVER,Number of workers with a commute time to work 90 minutes and over
+TRANS_TOT,Total population sampled for type of transportation taken to work
+TRANS_SOV,Number of people who drive a car alone to work
+TRANS_PUB,Number of people who take public transportaion to work
+TRANS_BIKE,Number of people who bike to work
+TRANS_WALK,Number of people who walk to work
+PLW_TOT,Total population of workers sampled for place of work
+PLW_RES_STATE,Number of workers who work in state of residence
+PLW_RES_COUNTY,Number of workers who work in county of residence
+PLW_NONRES_COUNTY,Number of workers who work outside county of residence
+PLW_NONRES_STATE,Number of workers who work outside state of residence
+OCCUPATION_TOT,Total population of workers sampled for type of profession
+OCCUPATION_PRO,"Number of workers working in the management, business, science, and arts occupations that are typically salaried"
+OCCUPATION_SERV,Number of workers working in the service sector that are typically hourly-wage employees
+GEN_TOT,Total population sampled for age-group status
+GEN_MILL,Number of millennials
+GEN_SEN,Number of senior citizens
+HHF_TOT,Total population of housing units sampled for type of house heating fuel
+HHF_GAS,Number of housing units that heat with utilitiy gas
+HHF_TANK_GAS,"Number of housing units that heat with bottled, tank, or LP gas"
+HHF_ELEC,Number of housing units that heat with electricity
+HHF_KERO,"Number of housing units that heat with fuel oil, kerosene, etc."
+HHF_COAL,Number of housing units that heat with coal or coke
+HHF_WOOD,Number of housing units that heat with wood
+HHF_SOLAR,Number of housing units that heat with solar power
+HHF_OTHER,Number of housing units that heat with other type of heating fuel
+HHF_NONE,Number of housings that have no heating fuel used
+HHF_GAS_TOT,Total number of housing units that use some sort of gas as heating fuel
+HHF_GAS_PERC,Percentage of housing units that use some sort of gas as heating fuel
+HHF_ELEC_PERC,Percentage of housing units that use electricity 
+HHF_KERO_PERC,"Percentage of housing units that use fuel oil, kerosene, etc."
+HHF_SOLAR_PERC,Percentage of housing units that use solar power
+HHF_OTHER_PERC,Percentage of housing units that use other type of heating fuel
+HIC_TOT,Total population sampled for health insurance coverage status
+HIC_EMPL,Number of individuals with employer-based health insurance only
+HIC_DIR_PURC,Number of individuals with direct-purchase health insurance only
+HIC_MEDICARE,Number of individuals with Medicare coverage only
+HIC_MEDICAID,Number of individuals with Medicaid/means-tested public coverage only
+HIC_TRICARE,Number of individuals with TRICARE/military health coverage only
+HIC_VA_CARE,Number of individuals with VA Health Care only
+HIC_PRIM_SEC,Number of individuals with two or more types of health insurance coverage
+HIC_NONE,Number of individuals with no health insurance coverage
+PRICE_TOT,"Total population sampled for vacant-for-sale-only and sold, not occupied housing units"
+PRICE_SUB_10000,"Housing units with an asking price of less than $10,000"
+PRICE_10000_14999,"Housing units with an asking price between $10,000 and $14,999"
+PRICE_15000_19999,"Housing units with an asking price between $15,000 and $19,999"
+PRICE_20000_24999,"Housing units with an asking price between $20,000 and $24,999"
+PRICE_25000_29999,"Housing units with an asking price between $25,500 and $29,999"
+PRICE_30000_34999,"Housing units with an asking price between $30,000 and $34,999"
+PRICE_35000_39999,"Housing units with an asking price between $35,500 and $39,999"
+PRICE_40000_49999,"Housing units with an asking price between $40,000 and $49,999"
+PRICE_50000_59999,"Housing units with an asking price between $50,000 and $59,999"
+PRICE_60000_69999,"Housing units with an asking price between $60,000 and $69,999"
+PRICE_70000_79999,"Housing units with an asking price between $70,000 and $79,999"
+PRICE_80000_89999,"Housing units with an asking price between $80,000 and $89,999"
+PRICE_90000_99999,"Housing units with an asking price between $90,000 and $99,999"
+PRICE_100000_124999,"Housing units with an asking price between $100,000 and $124,999"
+PRICE_125000_149999,"Housing units with an asking price between $125,000 and $149,999"
+PRICE_150000_174999,"Housing units with an asking price between $150,000 and $174,999"
+PRICE_175000_199999,"Housing units with an asking price between $170,000 and $199,999"
+PRICE_200000_249999,"Housing units with an asking price between $200,000 and $249,999"
+PRICE_250000_299999,"Housing units with an asking price between $250,000 and $299,999"
+PRICE_300000_399999,"Housing units with an asking price between $300,000 and $399,999"
+PRICE_400000_499999,"Housing units with an asking price between $400,000 and $499,999"
+PRICE_500000_749999,"Housing units with an asking price between $500,000 and $749,999"
+PRICE_750000_999999,"Housing units with an asking price between $750,500 and $999,999"
+PRICE_1000000_1499999,"Housing units with an asking price between $1,000,000 and $1,499,999"
+PRICE_1500000_1999999,"Housing units with an asking price between $1,500,000 and $1,999,999"
+PRICE_2000000_OVER,"Housing units with an asking price of over $2,000,000"
+MED_HH_INCOME,"Housing units with an asking med between $HH,INC and $IN,OME"
+INCOME_TOT,Total populationof housing units sampled for income level
+INCOME_SUB_10000,"Housing units with a household income of less than $10,100"
+INCOME_10000_14999,"Housing units with a household income between $10,000 and $14,999"
+INCOME_15000_19999,"Housing units with a household income between $15,000 and $19,999"
+INCOME_20000_24999,"Housing units with a household income between $20,000 and $24,999"
+INCOME_25000_29999,"Housing units with a household income between $25,000 and $29,999"
+INCOME_30000_34999,"Housing units with a household income between $30,000 and $34,499"
+INCOME_35000_39999,"Housing units with a household income between $35,000 and $39,999"
+INCOME_40000_44999,"Housing units with a household income between $40,000 and $44,499"
+INCOME_45000_49999,"Housing units with a household income between $45,000 and $49,999"
+INCOME_50000_59999,"Housing units with a household income between $50,000 and $59,999"
+INCOME_60000_74999,"Housing units with a household income between $60,000 and $74,499"
+INCOME_75000_99999,"Housing units with a household income between $75,000 and $99,999"
+INCOME_100000_124999,"Housing units with a household income between $100,000 and $124,999"
+INCOME_125000_149999,"Housing units with a household income between $125,000 and $149,999"
+INCOME_150000_199999,"Housing units with a household income between $150,000 and $199,999"
+INCOME_200000_OVER,"Housing units with a household  income over $200,0000"
+PS_TOT,Total population sampled for poverty status
+PS_POV,Number of individuals living in poverty
+PS_POV_PERC,Percentage of individuals living in poverty
+TCOST_IDX,"The Transportation Cost Index quantifies the transportation expenses for a 3-person single-parent famly with income at 50% of the median income for renters in the region. Interpretation values are inverted and percentile ranked nationally with values ranging from 0 to 100. The higher the index,the lower the cost of transportation in that neighborhood (define as census tract). Transportation costs may be low for a range of reasons, including greater access to public transportation and density of homes, services and jobs in the neighborhood and surrounding community."
+HAZ_IDX,"The Environmental Health Hazard Exposure Index summarizes potential exposure to harmful toxins at the neighborhood level (defined as a census tract). Potential hazards exposure is a linear combination of standardized EPA estimates of air quality carcinogenic, respiratory, and neurological hazards. Values are inverted and range from 0 to 100. The higher the index value the less exposure to toxins harmful to human health. Therefore, the higher the value, the better the environmental quality of the neighborhood."
+JPI_IDX,"The Job Proximity Index quantifies the accessibility of a given residential neighborhood (defined as census tracts) as a function of its distance to all job locations. Interpretation values are percentile ranked with values ranging from 0 to 100. The higher the index value, the better the access to employment opportunities for residents in a neighborhood."
